@@ -56,7 +56,7 @@ set fileencodings=ucs-bom,utf-8,cp936,gb2312,gb18030,big5
 set number
 
 "设置默认打开窗口大小
-set lines=70 columns=100
+set lines=50 columns=100
 
 "设置窗口透明度
 
@@ -87,7 +87,7 @@ endif
 "文本操作设置
 "-------------------------------------------------------------------------------
 "设置字体
-set gfn=Courier:h15
+set gfn=Monaco:h14
 
 "设置自动缩进
 set tabstop=2
